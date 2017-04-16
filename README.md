@@ -6,7 +6,7 @@ Thành viên:
 * [ ] **1412107** phandung1349 (tên tài khoản github)
 * [ ] **1412112** 1412112 (tên tài khoản github)
 
-URL: **URL hosting của bài tập**
+URL: **https://myflicke.herokuapp.com/**
 
 ## Yêu cầu
 
