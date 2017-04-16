@@ -1,6 +1,6 @@
-# BT-UDPT-1 - *Name of your app*
+# BT-UDPT-1 - *myflicke*
 
-**myflicke** là một bài tập 1 tại môn UDPT.
+**name of your app** là một bài tập 1 tại môn UDPT.
 
 Thành viên:
 * [ ] **1412107** phandung1349 (tên tài khoản github)
